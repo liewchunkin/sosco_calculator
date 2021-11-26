@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">set8liewchunkin</string>
+    <string name="employee_or_employer">Employee or Employer</string>
+    <string name="age">Age</string>
+    <string name="salary">Salary (RM)</string>
+    <string name="monthly_contributions">Monthly Contributions</string>
+    <string-array name="yee_or_yer">
+        <item>Employee</item>
+        <item>Employer</item>
+    </string-array>
+    <string-array name="age_range">
+        <item>Below 60</item>
+        <item>60 and Above</item>
+    </string-array>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="sosco">SOSCO URL</string>
+    <string name="employee">Employee</string>
+    <string name="employer">Employer</string>
+    <string name="call_sosco">CALL SOSCO</string>
+</resources>
